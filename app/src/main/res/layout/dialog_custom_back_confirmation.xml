@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/are_you_sure"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:fontFamily="monospace" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:gravity="center"
+        android:text="@string/this_will_stop_your_workout_you_ve_come_this_far_are_you_sure"
+        android:textColor="#212121"
+        android:fontFamily="monospace"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/tvYes"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="10dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/colorAccent"
+            android:gravity="center"
+            android:text="@string/yes"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:fontFamily="monospace" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/tvNo"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="10dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/colorAccent"
+            android:gravity="center"
+            android:text="@string/cancel"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:fontFamily="monospace" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

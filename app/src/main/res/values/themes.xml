@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme._7MinutesWorkoutApp" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:typeface">monospace</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.MaterialComponents.ActionBar">
+        <item name="colorControlNormal">@color/toolbar_color_control_normal</item>
+    </style>
+    <style name="BMITheme" parent="@style/ThemeOverlay.MaterialComponents.ActionBar">
+        <item name="colorControlNormal">@color/toolbar_color_control_normal</item>
+    </style>
+    <style name="AppTheme.FullScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+    <style name="Theme._7MinutesWorkoutApp" parent="Base.Theme._7MinutesWorkoutApp"/>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">𝟽 𝙼𝚒𝚗𝚞𝚝𝚎𝚜 𝚆𝚘𝚛𝚔𝚘𝚞𝚝 𝙰𝚙𝚙</string>
+    <string name="main_view">main_view</string>
+    <string name="start">START</string>
+    <string name="get_ready_for">𝙶𝙴𝚃 𝚁𝙴𝙰𝙳𝚈 𝙵𝙾𝚁</string>
+    <string name="_10">10</string>
+    <string name="exerciseName">ExerciseName</string>
+    <string name="exercise">exercise</string>
+    <string name="upcoming_exercise">Upcoming Exercise</string>
+    <string name="end">END</string>
+    <string name="start_image">start image</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_have_done_the_workout_keep_it_up">You have done the workout! Keep it up!</string>
+    <string name="finish">Finish</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="this_will_stop_your_workout_you_ve_come_this_far_are_you_sure">This will stop your workout. You\'ve come this far, are you sure?</string>
+    <string name="yes">YES</string>
+    <string name="cancel">Cancel</string>
+    <string name="bmi">BMI</string>
+    <string name="calculator">Calculator</string>
+    <string name="weight_in_kg">Weight in Kg</string>
+    <string name="height_in_cm">Height in Cm</string>
+    <string name="your_bmi">Your BMI</string>
+    <string name="normal">Normal</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="metric_units">Metric Units</string>
+    <string name="us_units">US Units</string>
+    <string name="feet">Feet</string>
+    <string name="inch">Inch</string>
+    <string name="weight_in_pound">Weight In Pound</string>
+    <string name="history">History</string>
+    <string name="_15_oct_2023_02_36">15 OCT 2023 02:36am</string>
+    <string name="_23_nov_2023_12_34pm">23 NOV 2023 12:34pm</string>
+    <string name="_24_aug_2024_03_45am">24 Aug 2024 03:45am</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".HistoryActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_history_activity"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/tv_history_activity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="#212121"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:background="@color/lightGrey"
+            android:padding="20dp"
+            android:text="@string/_15_oct_2023_02_36"
+            android:textSize="18sp"
+            app:layout_constraintTop_toBottomOf="@id/toolbar_history_activity" />
+
+        <TextView
+            android:id="@+id/tv_history_activity1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#212121"
+            android:padding="20dp"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:background="@color/lightGrey"
+        android:text="@string/_23_nov_2023_12_34pm"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/tv_history_activity" />
+
+    <TextView
+        android:id="@+id/tv_history_activity2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#212121"
+        android:padding="20dp"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:background="@color/lightGrey"
+        android:text="@string/_24_aug_2024_03_45am"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/tv_history_activity1" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
