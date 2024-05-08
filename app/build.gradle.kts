@@ -1,7 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
-    kotlin("kapt")
+
 }
 
 android {
@@ -42,13 +42,6 @@ android {
 
 dependencies {
 
-    implementation(libs.androidx.room.common)
-    implementation(libs.androidx.room.runtime.android)
-    kapt(libs.androidx.activity.ktx.v172)
-    kapt(libs.androidx.room.ktx.v252)
-    kapt(libs.androidx.room.compiler.v252)
-    kapt(libs.androidx.room.runtime.v252)
-    implementation(libs.androidx.core.ktx.v190)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
     implementation(libs.androidx.activity)
