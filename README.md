@@ -7,7 +7,6 @@
 ![Screenshot_20240508_025136](https://github.com/Anuragroyan/7minuteworkout_app/assets/38952781/ddeab4c1-fb9a-4ca6-9d93-66ac4875a74f)
 ![Screenshot_20240508_170427](https://github.com/Anuragroyan/7minuteworkout_app/assets/38952781/13b1a657-f797-4816-b8ea-295dd8acde4b)
 ![Screenshot_20240508_170539](https://github.com/Anuragroyan/7minuteworkout_app/assets/38952781/a07bcbfc-5abd-41fc-b8cb-90ad8a2299e3)
-![Screenshot_20240508_170803](https://github.com/Anuragroyan/7minuteworkout_app/assets/38952781/ae09e362-5ce5-4f9d-9a9c-89bb60ff3786)
 ![Screenshot_20240508_025158](https://github.com/Anuragroyan/7minuteworkout_app/assets/38952781/037a07a3-5a23-433b-b931-f3bc8ceb9d09)
 ![Screenshot_20240508_025423](https://github.com/Anuragroyan/7minuteworkout_app/assets/38952781/04597402-4138-4760-8ab0-508f617dc53f)
 ![Screenshot_20240508_170814](https://github.com/Anuragroyan/7minuteworkout_app/assets/38952781/f07f151f-9598-43ef-9eeb-56d098665e24)
